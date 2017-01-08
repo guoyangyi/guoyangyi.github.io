@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-01-08T09:35:47.882Z</updated>
+  <updated>2017-01-08T15:29:21.079Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,38 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>基于Hexo和Github搭建博客</title>
-    <link href="http://yoursite.com/2017/01/07/name-of-the-new-post5/"/>
-    <id>http://yoursite.com/2017/01/07/name-of-the-new-post5/</id>
-    <published>2017-01-07T02:36:38.000Z</published>
-    <updated>2017-01-08T09:35:47.882Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="深入浅出Github"><a href="#深入浅出Github" class="headerlink" title="深入浅出Github"></a>深入浅出Github</h2><p>前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。                                                                                                                           <a id="more"></a><br>去年的这个时候，也在写总结。从当时日记的字里行间可以看出，当时自己不知为何心情好像还有点压抑，可能是因为忆往昔容易触景生情吧。也罢，也罢，是时候换个心态了！翻着这一年在不同的地方记下的那些残言片语，想着那时那地那景那情，似乎还有一种故地重游之感，Nice ^_^！今年走过了很多的城市，也遇到了很多的人，还找了一份工作，可以说目前应该是自己多年以来最轻松的时光了，就等着论文答辩然后毕业吧。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;深入浅出Github&quot;&gt;&lt;a href=&quot;#深入浅出Github&quot; class=&quot;headerlink&quot; title=&quot;深入浅出Github&quot;&gt;&lt;/a&gt;深入浅出Github&lt;/h2&gt;&lt;p&gt;前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。
-    
-    </summary>
-    
-      <category term="搭建博客" scheme="http://yoursite.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-      <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
-    
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
-    
-      <category term="github" scheme="http://yoursite.com/tags/github/"/>
-    
-  </entry>
-  
-  <entry>
     <title>深入浅出Github</title>
     <link href="http://yoursite.com/2017/01/07/hello-world/"/>
     <id>http://yoursite.com/2017/01/07/hello-world/</id>
     <published>2017-01-07T02:36:38.000Z</published>
-    <updated>2017-01-08T10:01:17.220Z</updated>
+    <updated>2017-01-08T15:29:21.079Z</updated>
     
     <content type="html"><![CDATA[<h2 id="深入浅出Github"><a href="#深入浅出Github" class="headerlink" title="深入浅出Github"></a>深入浅出Github</h2><p>前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。                                                                                                                           <a id="more"></a><br>去年的这个时候，也在写总结。从当时日记的字里行间可以看出，当时自己不知为何心情好像还有点压抑，可能是因为忆往昔容易触景生情吧。也罢，也罢，是时候换个心态了！翻着这一年在不同的地方记下的那些残言片语，想着那时那地那景那情，似乎还有一种故地重游之感，Nice ^_^！今年走过了很多的城市，也遇到了很多的人，还找了一份工作，可以说目前应该是自己多年以来最轻松的时光了，就等着论文答辩然后毕业吧。</p>
 ]]></content>
@@ -74,7 +47,7 @@
     <link href="http://yoursite.com/2017/01/07/My-new-Post/"/>
     <id>http://yoursite.com/2017/01/07/My-new-Post/</id>
     <published>2017-01-07T02:36:38.000Z</published>
-    <updated>2017-01-08T09:34:18.854Z</updated>
+    <updated>2017-01-08T15:29:33.358Z</updated>
     
     <content type="html"><![CDATA[<h2 id="深入浅出Github"><a href="#深入浅出Github" class="headerlink" title="深入浅出Github"></a>深入浅出Github</h2><p>前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。                                                                                                                           <a id="more"></a><br>去年的这个时候，也在写总结。从当时日记的字里行间可以看出，当时自己不知为何心情好像还有点压抑，可能是因为忆往昔容易触景生情吧。也罢，也罢，是时候换个心态了！翻着这一年在不同的地方记下的那些残言片语，想着那时那地那景那情，似乎还有一种故地重游之感，Nice ^_^！今年走过了很多的城市，也遇到了很多的人，还找了一份工作，可以说目前应该是自己多年以来最轻松的时光了，就等着论文答辩然后毕业吧。</p>
 ]]></content>
@@ -98,253 +71,10 @@
   
   <entry>
     <title>基于Hexo和Github搭建博客</title>
-    <link href="http://yoursite.com/2017/01/07/name-of-the-new-post2/"/>
-    <id>http://yoursite.com/2017/01/07/name-of-the-new-post2/</id>
-    <published>2017-01-07T02:36:38.000Z</published>
-    <updated>2017-01-08T09:35:28.702Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="深入浅出Github"><a href="#深入浅出Github" class="headerlink" title="深入浅出Github"></a>深入浅出Github</h2><p>前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。                                                                                                                           <a id="more"></a><br>去年的这个时候，也在写总结。从当时日记的字里行间可以看出，当时自己不知为何心情好像还有点压抑，可能是因为忆往昔容易触景生情吧。也罢，也罢，是时候换个心态了！翻着这一年在不同的地方记下的那些残言片语，想着那时那地那景那情，似乎还有一种故地重游之感，Nice ^_^！今年走过了很多的城市，也遇到了很多的人，还找了一份工作，可以说目前应该是自己多年以来最轻松的时光了，就等着论文答辩然后毕业吧。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;深入浅出Github&quot;&gt;&lt;a href=&quot;#深入浅出Github&quot; class=&quot;headerlink&quot; title=&quot;深入浅出Github&quot;&gt;&lt;/a&gt;深入浅出Github&lt;/h2&gt;&lt;p&gt;前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。
-    
-    </summary>
-    
-      <category term="搭建博客" scheme="http://yoursite.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-      <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
-    
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
-    
-      <category term="github" scheme="http://yoursite.com/tags/github/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>基于Hexo和Github搭建博客</title>
-    <link href="http://yoursite.com/2017/01/07/name-of-the-new-post3/"/>
-    <id>http://yoursite.com/2017/01/07/name-of-the-new-post3/</id>
-    <published>2017-01-07T02:36:38.000Z</published>
-    <updated>2017-01-08T09:35:35.408Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="深入浅出Github"><a href="#深入浅出Github" class="headerlink" title="深入浅出Github"></a>深入浅出Github</h2><p>前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。                                                                                                                           <a id="more"></a><br>去年的这个时候，也在写总结。从当时日记的字里行间可以看出，当时自己不知为何心情好像还有点压抑，可能是因为忆往昔容易触景生情吧。也罢，也罢，是时候换个心态了！翻着这一年在不同的地方记下的那些残言片语，想着那时那地那景那情，似乎还有一种故地重游之感，Nice ^_^！今年走过了很多的城市，也遇到了很多的人，还找了一份工作，可以说目前应该是自己多年以来最轻松的时光了，就等着论文答辩然后毕业吧。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;深入浅出Github&quot;&gt;&lt;a href=&quot;#深入浅出Github&quot; class=&quot;headerlink&quot; title=&quot;深入浅出Github&quot;&gt;&lt;/a&gt;深入浅出Github&lt;/h2&gt;&lt;p&gt;前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。
-    
-    </summary>
-    
-      <category term="搭建博客" scheme="http://yoursite.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-      <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
-    
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
-    
-      <category term="github" scheme="http://yoursite.com/tags/github/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>基于Hexo和Github搭建博客</title>
-    <link href="http://yoursite.com/2017/01/07/name-of-the-new-post4/"/>
-    <id>http://yoursite.com/2017/01/07/name-of-the-new-post4/</id>
-    <published>2017-01-07T02:36:38.000Z</published>
-    <updated>2017-01-08T09:35:41.679Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="深入浅出Github"><a href="#深入浅出Github" class="headerlink" title="深入浅出Github"></a>深入浅出Github</h2><p>前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。                                                                                                                           <a id="more"></a><br>去年的这个时候，也在写总结。从当时日记的字里行间可以看出，当时自己不知为何心情好像还有点压抑，可能是因为忆往昔容易触景生情吧。也罢，也罢，是时候换个心态了！翻着这一年在不同的地方记下的那些残言片语，想着那时那地那景那情，似乎还有一种故地重游之感，Nice ^_^！今年走过了很多的城市，也遇到了很多的人，还找了一份工作，可以说目前应该是自己多年以来最轻松的时光了，就等着论文答辩然后毕业吧。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;深入浅出Github&quot;&gt;&lt;a href=&quot;#深入浅出Github&quot; class=&quot;headerlink&quot; title=&quot;深入浅出Github&quot;&gt;&lt;/a&gt;深入浅出Github&lt;/h2&gt;&lt;p&gt;前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。
-    
-    </summary>
-    
-      <category term="搭建博客" scheme="http://yoursite.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-      <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
-    
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
-    
-      <category term="github" scheme="http://yoursite.com/tags/github/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>基于Hexo和Github搭建博客</title>
     <link href="http://yoursite.com/2017/01/07/name-of-the-new-post/"/>
     <id>http://yoursite.com/2017/01/07/name-of-the-new-post/</id>
     <published>2017-01-07T02:36:38.000Z</published>
-    <updated>2017-01-08T09:35:20.094Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="深入浅出Github"><a href="#深入浅出Github" class="headerlink" title="深入浅出Github"></a>深入浅出Github</h2><p>前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。                                                                                                                           <a id="more"></a><br>去年的这个时候，也在写总结。从当时日记的字里行间可以看出，当时自己不知为何心情好像还有点压抑，可能是因为忆往昔容易触景生情吧。也罢，也罢，是时候换个心态了！翻着这一年在不同的地方记下的那些残言片语，想着那时那地那景那情，似乎还有一种故地重游之感，Nice ^_^！今年走过了很多的城市，也遇到了很多的人，还找了一份工作，可以说目前应该是自己多年以来最轻松的时光了，就等着论文答辩然后毕业吧。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;深入浅出Github&quot;&gt;&lt;a href=&quot;#深入浅出Github&quot; class=&quot;headerlink&quot; title=&quot;深入浅出Github&quot;&gt;&lt;/a&gt;深入浅出Github&lt;/h2&gt;&lt;p&gt;前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。
-    
-    </summary>
-    
-      <category term="搭建博客" scheme="http://yoursite.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-      <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
-    
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
-    
-      <category term="github" scheme="http://yoursite.com/tags/github/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>基于Hexo和Github搭建博客</title>
-    <link href="http://yoursite.com/2017/01/07/name-of-the-new-post6/"/>
-    <id>http://yoursite.com/2017/01/07/name-of-the-new-post6/</id>
-    <published>2017-01-07T02:36:38.000Z</published>
-    <updated>2017-01-08T09:35:55.416Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="深入浅出Github"><a href="#深入浅出Github" class="headerlink" title="深入浅出Github"></a>深入浅出Github</h2><p>前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。                                                                                                                           <a id="more"></a><br>去年的这个时候，也在写总结。从当时日记的字里行间可以看出，当时自己不知为何心情好像还有点压抑，可能是因为忆往昔容易触景生情吧。也罢，也罢，是时候换个心态了！翻着这一年在不同的地方记下的那些残言片语，想着那时那地那景那情，似乎还有一种故地重游之感，Nice ^_^！今年走过了很多的城市，也遇到了很多的人，还找了一份工作，可以说目前应该是自己多年以来最轻松的时光了，就等着论文答辩然后毕业吧。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;深入浅出Github&quot;&gt;&lt;a href=&quot;#深入浅出Github&quot; class=&quot;headerlink&quot; title=&quot;深入浅出Github&quot;&gt;&lt;/a&gt;深入浅出Github&lt;/h2&gt;&lt;p&gt;前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。
-    
-    </summary>
-    
-      <category term="搭建博客" scheme="http://yoursite.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-      <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
-    
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
-    
-      <category term="github" scheme="http://yoursite.com/tags/github/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>基于Hexo和Github搭建博客</title>
-    <link href="http://yoursite.com/2017/01/07/name-of-the-new-post7/"/>
-    <id>http://yoursite.com/2017/01/07/name-of-the-new-post7/</id>
-    <published>2017-01-07T02:36:38.000Z</published>
-    <updated>2017-01-08T09:36:02.820Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="深入浅出Github"><a href="#深入浅出Github" class="headerlink" title="深入浅出Github"></a>深入浅出Github</h2><p>前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。                                                                                                                           <a id="more"></a><br>去年的这个时候，也在写总结。从当时日记的字里行间可以看出，当时自己不知为何心情好像还有点压抑，可能是因为忆往昔容易触景生情吧。也罢，也罢，是时候换个心态了！翻着这一年在不同的地方记下的那些残言片语，想着那时那地那景那情，似乎还有一种故地重游之感，Nice ^_^！今年走过了很多的城市，也遇到了很多的人，还找了一份工作，可以说目前应该是自己多年以来最轻松的时光了，就等着论文答辩然后毕业吧。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;深入浅出Github&quot;&gt;&lt;a href=&quot;#深入浅出Github&quot; class=&quot;headerlink&quot; title=&quot;深入浅出Github&quot;&gt;&lt;/a&gt;深入浅出Github&lt;/h2&gt;&lt;p&gt;前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。
-    
-    </summary>
-    
-      <category term="搭建博客" scheme="http://yoursite.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-      <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
-    
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
-    
-      <category term="github" scheme="http://yoursite.com/tags/github/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>基于Hexo和Github搭建博客</title>
-    <link href="http://yoursite.com/2017/01/07/name-of-the-new-post8/"/>
-    <id>http://yoursite.com/2017/01/07/name-of-the-new-post8/</id>
-    <published>2017-01-07T02:36:38.000Z</published>
-    <updated>2017-01-08T09:36:09.277Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="深入浅出Github"><a href="#深入浅出Github" class="headerlink" title="深入浅出Github"></a>深入浅出Github</h2><p>前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。                                                                                                                           <a id="more"></a><br>去年的这个时候，也在写总结。从当时日记的字里行间可以看出，当时自己不知为何心情好像还有点压抑，可能是因为忆往昔容易触景生情吧。也罢，也罢，是时候换个心态了！翻着这一年在不同的地方记下的那些残言片语，想着那时那地那景那情，似乎还有一种故地重游之感，Nice ^_^！今年走过了很多的城市，也遇到了很多的人，还找了一份工作，可以说目前应该是自己多年以来最轻松的时光了，就等着论文答辩然后毕业吧。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;深入浅出Github&quot;&gt;&lt;a href=&quot;#深入浅出Github&quot; class=&quot;headerlink&quot; title=&quot;深入浅出Github&quot;&gt;&lt;/a&gt;深入浅出Github&lt;/h2&gt;&lt;p&gt;前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。
-    
-    </summary>
-    
-      <category term="搭建博客" scheme="http://yoursite.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-      <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
-    
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
-    
-      <category term="github" scheme="http://yoursite.com/tags/github/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>基于Hexo和Github搭建博客</title>
-    <link href="http://yoursite.com/2017/01/07/name-of-the-new-post9/"/>
-    <id>http://yoursite.com/2017/01/07/name-of-the-new-post9/</id>
-    <published>2017-01-07T02:36:38.000Z</published>
-    <updated>2017-01-08T09:36:16.328Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="深入浅出Github"><a href="#深入浅出Github" class="headerlink" title="深入浅出Github"></a>深入浅出Github</h2><p>前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。                                                                                                                           <a id="more"></a><br>去年的这个时候，也在写总结。从当时日记的字里行间可以看出，当时自己不知为何心情好像还有点压抑，可能是因为忆往昔容易触景生情吧。也罢，也罢，是时候换个心态了！翻着这一年在不同的地方记下的那些残言片语，想着那时那地那景那情，似乎还有一种故地重游之感，Nice ^_^！今年走过了很多的城市，也遇到了很多的人，还找了一份工作，可以说目前应该是自己多年以来最轻松的时光了，就等着论文答辩然后毕业吧。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;深入浅出Github&quot;&gt;&lt;a href=&quot;#深入浅出Github&quot; class=&quot;headerlink&quot; title=&quot;深入浅出Github&quot;&gt;&lt;/a&gt;深入浅出Github&lt;/h2&gt;&lt;p&gt;前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。
-    
-    </summary>
-    
-      <category term="搭建博客" scheme="http://yoursite.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-      <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
-    
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
-    
-      <category term="github" scheme="http://yoursite.com/tags/github/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>基于Hexo和Github搭建博客</title>
-    <link href="http://yoursite.com/2017/01/07/name-of-the-new-post11/"/>
-    <id>http://yoursite.com/2017/01/07/name-of-the-new-post11/</id>
-    <published>2017-01-07T02:36:38.000Z</published>
-    <updated>2017-01-08T09:36:23.097Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="深入浅出Github"><a href="#深入浅出Github" class="headerlink" title="深入浅出Github"></a>深入浅出Github</h2><p>前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。                                                                                                                           <a id="more"></a><br>去年的这个时候，也在写总结。从当时日记的字里行间可以看出，当时自己不知为何心情好像还有点压抑，可能是因为忆往昔容易触景生情吧。也罢，也罢，是时候换个心态了！翻着这一年在不同的地方记下的那些残言片语，想着那时那地那景那情，似乎还有一种故地重游之感，Nice ^_^！今年走过了很多的城市，也遇到了很多的人，还找了一份工作，可以说目前应该是自己多年以来最轻松的时光了，就等着论文答辩然后毕业吧。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;深入浅出Github&quot;&gt;&lt;a href=&quot;#深入浅出Github&quot; class=&quot;headerlink&quot; title=&quot;深入浅出Github&quot;&gt;&lt;/a&gt;深入浅出Github&lt;/h2&gt;&lt;p&gt;前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。
-    
-    </summary>
-    
-      <category term="搭建博客" scheme="http://yoursite.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-      <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
-    
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
-    
-      <category term="github" scheme="http://yoursite.com/tags/github/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>基于Hexo和Github搭建博客</title>
-    <link href="http://yoursite.com/2017/01/07/name-of-the-new-post12/"/>
-    <id>http://yoursite.com/2017/01/07/name-of-the-new-post12/</id>
-    <published>2017-01-07T02:36:38.000Z</published>
-    <updated>2017-01-08T09:36:29.525Z</updated>
+    <updated>2017-01-08T15:32:26.835Z</updated>
     
     <content type="html"><![CDATA[<h2 id="深入浅出Github"><a href="#深入浅出Github" class="headerlink" title="深入浅出Github"></a>深入浅出Github</h2><p>前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。                                                                                                                           <a id="more"></a><br>去年的这个时候，也在写总结。从当时日记的字里行间可以看出，当时自己不知为何心情好像还有点压抑，可能是因为忆往昔容易触景生情吧。也罢，也罢，是时候换个心态了！翻着这一年在不同的地方记下的那些残言片语，想着那时那地那景那情，似乎还有一种故地重游之感，Nice ^_^！今年走过了很多的城市，也遇到了很多的人，还找了一份工作，可以说目前应该是自己多年以来最轻松的时光了，就等着论文答辩然后毕业吧。</p>
 ]]></content>
