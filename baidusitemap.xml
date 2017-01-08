@@ -4,6 +4,30 @@
 
     
   <url>
+    <loc>http://yoursite.com/2017/01/07/hello-world/</loc>
+    <lastmod>2017-01-08T09:47:36.401Z</lastmod>
+    <data>
+        <display>
+        <title>深入浅出Github</title>
+        <pubTime>2017-01-07T02:36:38.000Z</pubTime>
+        
+        <tag>npm</tag>
+         
+        <tag>hexo</tag>
+         
+        <tag>github</tag>
+         
+         
+           
+             
+              <breadCrumb title="Github" url="http://yoursite.com/categories/Github/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2017/01/07/name-of-the-new-post12/</loc>
     <lastmod>2017-01-08T09:36:29.525Z</lastmod>
     <data>
@@ -285,30 +309,6 @@
            
              
               <breadCrumb title="Hexo" url="http://yoursite.com/categories/Hexo/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/01/07/hello-world/</loc>
-    <lastmod>2017-01-08T09:33:57.944Z</lastmod>
-    <data>
-        <display>
-        <title>深入浅出Github</title>
-        <pubTime>2017-01-07T02:36:38.000Z</pubTime>
-        
-        <tag>npm</tag>
-         
-        <tag>hexo</tag>
-         
-        <tag>github</tag>
-         
-         
-           
-             
-              <breadCrumb title="Github" url="http://yoursite.com/categories/Github/"/>
           
         </display>
     </data>
