@@ -4,80 +4,8 @@
 
     
   <url>
-    <loc>http://yoursite.com/2017/01/07/name-of-the-new-post/</loc>
-    <lastmod>2017-01-08T07:32:10.565Z</lastmod>
-    <data>
-        <display>
-        <title>基于Hexo和Github搭建博客</title>
-        <pubTime>2017-01-07T02:36:38.000Z</pubTime>
-        
-        <tag>npm</tag>
-         
-        <tag>hexo</tag>
-         
-        <tag>github</tag>
-         
-         
-           
-             
-              <breadCrumb title="搭建博客" url="http://yoursite.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/01/07/My-new-Post/</loc>
-    <lastmod>2017-01-08T07:32:01.726Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo从入门到精通</title>
-        <pubTime>2017-01-07T02:36:38.000Z</pubTime>
-        
-        <tag>npm</tag>
-         
-        <tag>hexo</tag>
-         
-        <tag>github</tag>
-         
-         
-           
-             
-              <breadCrumb title="Hexo" url="http://yoursite.com/categories/Hexo/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/01/07/hello-world/</loc>
-    <lastmod>2017-01-08T07:29:17.156Z</lastmod>
-    <data>
-        <display>
-        <title>深入浅出Github</title>
-        <pubTime>2017-01-07T02:36:38.000Z</pubTime>
-        
-        <tag>npm</tag>
-         
-        <tag>hexo</tag>
-         
-        <tag>github</tag>
-         
-         
-           
-             
-              <breadCrumb title="Github" url="http://yoursite.com/categories/Github/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://yoursite.com/2017/01/07/name-of-the-new-post12/</loc>
-    <lastmod>2017-01-07T12:28:54.226Z</lastmod>
+    <lastmod>2017-01-08T09:24:28.657Z</lastmod>
     <data>
         <display>
         <title>基于Hexo和Github搭建博客</title>
@@ -101,7 +29,7 @@
     
   <url>
     <loc>http://yoursite.com/2017/01/07/name-of-the-new-post11/</loc>
-    <lastmod>2017-01-07T12:28:46.956Z</lastmod>
+    <lastmod>2017-01-08T09:24:21.859Z</lastmod>
     <data>
         <display>
         <title>基于Hexo和Github搭建博客</title>
@@ -125,7 +53,7 @@
     
   <url>
     <loc>http://yoursite.com/2017/01/07/name-of-the-new-post9/</loc>
-    <lastmod>2017-01-07T12:28:40.034Z</lastmod>
+    <lastmod>2017-01-08T09:24:14.696Z</lastmod>
     <data>
         <display>
         <title>基于Hexo和Github搭建博客</title>
@@ -149,7 +77,7 @@
     
   <url>
     <loc>http://yoursite.com/2017/01/07/name-of-the-new-post8/</loc>
-    <lastmod>2017-01-07T12:28:33.579Z</lastmod>
+    <lastmod>2017-01-08T09:24:08.090Z</lastmod>
     <data>
         <display>
         <title>基于Hexo和Github搭建博客</title>
@@ -173,7 +101,7 @@
     
   <url>
     <loc>http://yoursite.com/2017/01/07/name-of-the-new-post7/</loc>
-    <lastmod>2017-01-07T12:28:26.745Z</lastmod>
+    <lastmod>2017-01-08T09:24:01.685Z</lastmod>
     <data>
         <display>
         <title>基于Hexo和Github搭建博客</title>
@@ -197,7 +125,7 @@
     
   <url>
     <loc>http://yoursite.com/2017/01/07/name-of-the-new-post6/</loc>
-    <lastmod>2017-01-07T12:28:20.243Z</lastmod>
+    <lastmod>2017-01-08T09:23:55.030Z</lastmod>
     <data>
         <display>
         <title>基于Hexo和Github搭建博客</title>
@@ -221,7 +149,7 @@
     
   <url>
     <loc>http://yoursite.com/2017/01/07/name-of-the-new-post5/</loc>
-    <lastmod>2017-01-07T12:28:13.117Z</lastmod>
+    <lastmod>2017-01-08T09:23:47.760Z</lastmod>
     <data>
         <display>
         <title>基于Hexo和Github搭建博客</title>
@@ -245,7 +173,7 @@
     
   <url>
     <loc>http://yoursite.com/2017/01/07/name-of-the-new-post4/</loc>
-    <lastmod>2017-01-07T12:28:05.680Z</lastmod>
+    <lastmod>2017-01-08T09:23:41.241Z</lastmod>
     <data>
         <display>
         <title>基于Hexo和Github搭建博客</title>
@@ -269,7 +197,7 @@
     
   <url>
     <loc>http://yoursite.com/2017/01/07/name-of-the-new-post3/</loc>
-    <lastmod>2017-01-07T12:26:00.270Z</lastmod>
+    <lastmod>2017-01-08T09:23:34.912Z</lastmod>
     <data>
         <display>
         <title>基于Hexo和Github搭建博客</title>
@@ -293,7 +221,7 @@
     
   <url>
     <loc>http://yoursite.com/2017/01/07/name-of-the-new-post2/</loc>
-    <lastmod>2017-01-07T12:25:52.498Z</lastmod>
+    <lastmod>2017-01-08T09:23:29.065Z</lastmod>
     <data>
         <display>
         <title>基于Hexo和Github搭建博客</title>
@@ -309,6 +237,78 @@
            
              
               <breadCrumb title="搭建博客" url="http://yoursite.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/01/07/name-of-the-new-post/</loc>
+    <lastmod>2017-01-08T09:23:20.336Z</lastmod>
+    <data>
+        <display>
+        <title>基于Hexo和Github搭建博客</title>
+        <pubTime>2017-01-07T02:36:38.000Z</pubTime>
+        
+        <tag>npm</tag>
+         
+        <tag>hexo</tag>
+         
+        <tag>github</tag>
+         
+         
+           
+             
+              <breadCrumb title="搭建博客" url="http://yoursite.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/01/07/My-new-Post/</loc>
+    <lastmod>2017-01-08T09:23:11.764Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo从入门到精通</title>
+        <pubTime>2017-01-07T02:36:38.000Z</pubTime>
+        
+        <tag>npm</tag>
+         
+        <tag>hexo</tag>
+         
+        <tag>github</tag>
+         
+         
+           
+             
+              <breadCrumb title="Hexo" url="http://yoursite.com/categories/Hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/01/07/hello-world/</loc>
+    <lastmod>2017-01-08T09:23:00.714Z</lastmod>
+    <data>
+        <display>
+        <title>深入浅出Github</title>
+        <pubTime>2017-01-07T02:36:38.000Z</pubTime>
+        
+        <tag>npm</tag>
+         
+        <tag>hexo</tag>
+         
+        <tag>github</tag>
+         
+         
+           
+             
+              <breadCrumb title="Github" url="http://yoursite.com/categories/Github/"/>
           
         </display>
     </data>
