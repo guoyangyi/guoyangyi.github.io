@@ -4,7 +4,7 @@
 
     
   <url>
-    <loc>http://yoursite.com/2017/01/07/My-new-Post/</loc>
+    <loc>http://guoyangyi.github.io/2017/01/07/My-new-Post/</loc>
     <lastmod>2017-01-09T02:53:59.340Z</lastmod>
     <data>
         <display>
@@ -20,7 +20,7 @@
          
            
              
-              <breadCrumb title="Hexo" url="http://yoursite.com/categories/Hexo/"/>
+              <breadCrumb title="Hexo" url="http://guoyangyi.github.io/categories/Hexo/"/>
           
         </display>
     </data>
@@ -28,7 +28,7 @@
 
     
   <url>
-    <loc>http://yoursite.com/2017/01/07/name-of-the-new-post/</loc>
+    <loc>http://guoyangyi.github.io/2017/01/07/name-of-the-new-post/</loc>
     <lastmod>2017-01-09T02:48:07.747Z</lastmod>
     <data>
         <display>
@@ -44,7 +44,7 @@
          
            
              
-              <breadCrumb title="搭建博客" url="http://yoursite.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+              <breadCrumb title="搭建博客" url="http://guoyangyi.github.io/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
           
         </display>
     </data>
@@ -56,7 +56,7 @@
     
     
   <url>
-    <loc>http://yoursite.com/2017/01/07/hello-world/</loc>
+    <loc>http://guoyangyi.github.io/2017/01/07/hello-world/</loc>
     <lastmod>2017-01-08T15:29:21.079Z</lastmod>
     <data>
         <display>
@@ -72,7 +72,7 @@
          
            
              
-              <breadCrumb title="Github" url="http://yoursite.com/categories/Github/"/>
+              <breadCrumb title="Github" url="http://guoyangyi.github.io/categories/Github/"/>
           
         </display>
     </data>
