@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-01-09T02:48:07.747Z</updated>
+  <updated>2017-01-09T02:53:59.340Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo从入门到精通</title>
+    <link href="http://yoursite.com/2017/01/07/My-new-Post/"/>
+    <id>http://yoursite.com/2017/01/07/My-new-Post/</id>
+    <published>2017-01-07T02:36:38.000Z</published>
+    <updated>2017-01-09T02:53:59.340Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Hexo从入门到精通"><a href="#Hexo从入门到精通" class="headerlink" title="Hexo从入门到精通"></a>Hexo从入门到精通</h2><p>前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。                                                                                                                           <a id="more"></a><br>去年的这个时候，也在写总结。从当时日记的字里行间可以看出，当时自己不知为何心情好像还有点压抑，可能是因为忆往昔容易触景生情吧。也罢，也罢，是时候换个心态了！翻着这一年在不同的地方记下的那些残言片语，想着那时那地那景那情，似乎还有一种故地重游之感，Nice ^_^！今年走过了很多的城市，也遇到了很多的人，还找了一份工作，可以说目前应该是自己多年以来最轻松的时光了，就等着论文答辩然后毕业吧。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Hexo从入门到精通&quot;&gt;&lt;a href=&quot;#Hexo从入门到精通&quot; class=&quot;headerlink&quot; title=&quot;Hexo从入门到精通&quot;&gt;&lt;/a&gt;Hexo从入门到精通&lt;/h2&gt;&lt;p&gt;前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。
+    
+    </summary>
+    
+      <category term="Hexo" scheme="http://yoursite.com/categories/Hexo/"/>
+    
+    
+      <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="github" scheme="http://yoursite.com/tags/github/"/>
+    
+  </entry>
   
   <entry>
     <title>一只爬虫的诞生</title>
@@ -59,33 +86,6 @@
     </summary>
     
       <category term="Github" scheme="http://yoursite.com/categories/Github/"/>
-    
-    
-      <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
-    
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
-    
-      <category term="github" scheme="http://yoursite.com/tags/github/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo从入门到精通</title>
-    <link href="http://yoursite.com/2017/01/07/My-new-Post/"/>
-    <id>http://yoursite.com/2017/01/07/My-new-Post/</id>
-    <published>2017-01-07T02:36:38.000Z</published>
-    <updated>2017-01-09T02:53:59.340Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Hexo从入门到精通"><a href="#Hexo从入门到精通" class="headerlink" title="Hexo从入门到精通"></a>Hexo从入门到精通</h2><p>前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。                                                                                                                           <a id="more"></a><br>去年的这个时候，也在写总结。从当时日记的字里行间可以看出，当时自己不知为何心情好像还有点压抑，可能是因为忆往昔容易触景生情吧。也罢，也罢，是时候换个心态了！翻着这一年在不同的地方记下的那些残言片语，想着那时那地那景那情，似乎还有一种故地重游之感，Nice ^_^！今年走过了很多的城市，也遇到了很多的人，还找了一份工作，可以说目前应该是自己多年以来最轻松的时光了，就等着论文答辩然后毕业吧。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;Hexo从入门到精通&quot;&gt;&lt;a href=&quot;#Hexo从入门到精通&quot; class=&quot;headerlink&quot; title=&quot;Hexo从入门到精通&quot;&gt;&lt;/a&gt;Hexo从入门到精通&lt;/h2&gt;&lt;p&gt;前阵子，幸运的中了一篇BIBM regular paper，对于不打算继续攻读PhD的自己，整个硕士也算是没有遗憾了。这两天，隔壁实验室的导师又开始催着交论文初稿了，恍恍惚惚地才意识到，一年又到头了。这一年，去过很多城市，走过很多地方，也收获了许多曾经。零零碎碎的事情比较多，为了勉励下自己，还是决定写点东西。有时候感觉，一个人静静地坐在椅子上回想着过去的点点滴滴，会心地一笑，淡然地释怀那些不开心的往事，也算是一种觉悟、一种享受吧。
-    
-    </summary>
-    
-      <category term="Hexo" scheme="http://yoursite.com/categories/Hexo/"/>
     
     
       <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
