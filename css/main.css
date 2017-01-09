@@ -1,3 +1,6 @@
+body {
+  background: url("/images/gyy.jpg");
+}
 /* normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
   font-family: sans-serif; /* 1 */
@@ -1686,7 +1689,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #90d72a;
+  background: #29456f;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2635,7 +2638,7 @@ hr {
   right: -100%;
 }
 .site-subtitle {
-  display: none;
+  display: block;
 }
 .site-nav-toggle {
   position: static;
