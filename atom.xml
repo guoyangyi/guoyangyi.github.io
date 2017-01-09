@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>郭阳益的博客</title>
+  <title>Gyy&#39;s Blog</title>
   <subtitle>预测未来的最好方法，就是把它创造出来。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
@@ -9,7 +9,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>郭阳益</name>
+    <name>Gyy</name>
     
   </author>
   
