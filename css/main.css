@@ -1,5 +1,6 @@
 body {
   background: url("/images/gyy.jpg");
+  background-attachment: fixed;
 }
 /* normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
@@ -1689,7 +1690,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #29456f;
+  background: #d6e7ff;
 }
 .links-of-blogroll {
   font-size: 13px;
