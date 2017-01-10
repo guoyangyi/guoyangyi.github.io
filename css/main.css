@@ -447,6 +447,9 @@ td {
 html,
 body {
   height: 100%;
+  background: url("/images/bg.png") no-repeat right top;
+  background-attachment: fixed;
+  background-color: #f5f7f9;
 }
 .container {
   position: relative;
@@ -1686,7 +1689,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #a7ffa8;
+  background: #e861a4;
 }
 .links-of-blogroll {
   font-size: 13px;
